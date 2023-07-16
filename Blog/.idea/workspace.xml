@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b724e572-f39e-40d6-b6c2-96e1eb263414" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easyCodeTableSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-blog/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/JkeshBlogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/Constants/SystemConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/entity/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/vo/CategoryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/vo/HotArticleVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/enums/AppHttpCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/mapper/ArticleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/mapper/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/ArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/impl/ArticleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/utils/BeanCopyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Sb2ZVhZrCj3yjtwOjaLaffyOXp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/Github/Jkesh/Universe/sg-blog-vue",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.45849803",
+    "settings.editor.selected.configurable": "com.sjhy.plugin.ui.TemplateSettingForm",
+    "spring.configuration.checksum": "1ec96633c5b3bed4b561758f86a0f0f0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jkesh.domain.vo" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jkesh.domain" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn dependency:tree  " />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JkeshBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Jkesh-blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jkesh.JkeshBlogApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jkesh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.JkeshBlogApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b724e572-f39e-40d6-b6c2-96e1eb263414" name="更改" comment="" />
+      <created>1689401016554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689401016554</updated>
+      <workItem from="1689401017946" duration="3703000" />
+      <workItem from="1689404795309" duration="5014000" />
+      <workItem from="1689430543095" duration="824000" />
+      <workItem from="1689431704694" duration="108000" />
+      <workItem from="1689431817015" duration="2488000" />
+      <workItem from="1689434320057" duration="4000" />
+      <workItem from="1689434427282" duration="9650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
