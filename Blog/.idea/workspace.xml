@@ -5,37 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b724e572-f39e-40d6-b6c2-96e1eb263414" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/easyCodeTableSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-blog/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/JkeshBlogApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/controller/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/Constants/SystemConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/entity/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/vo/CategoryVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/vo/HotArticleVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/enums/AppHttpCodeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/mapper/ArticleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/impl/ArticleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/utils/BeanCopyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/vo/ArticleListVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/vo/PageVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Begin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jkesh-blog/src/main/java/com/jkesh/controller/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/entity/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/domain/entity/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/ArticleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/impl/ArticleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jkesh-framwork/src/main/java/com/jkesh/service/impl/ArticleServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -97,7 +75,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.45849803",
-    "settings.editor.selected.configurable": "com.sjhy.plugin.ui.TemplateSettingForm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "1ec96633c5b3bed4b561758f86a0f0f0",
     "vue.rearranger.settings.migration": "true"
   },
@@ -158,6 +136,7 @@
       <workItem from="1689431817015" duration="2488000" />
       <workItem from="1689434320057" duration="4000" />
       <workItem from="1689434427282" duration="9650000" />
+      <workItem from="1689497725258" duration="1610000" />
     </task>
     <servers />
   </component>
@@ -174,6 +153,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

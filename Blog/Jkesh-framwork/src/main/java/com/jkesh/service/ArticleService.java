@@ -6,4 +6,6 @@ import com.jkesh.domain.entity.Article;
 
 public interface ArticleService extends IService<Article> {
     ResponseResult hotArticleList();
+
+    ResponseResult articleList(Integer pageNum, Integer pageNum1, Long categoryId);
 }
